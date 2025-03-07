@@ -1,3 +1,6 @@
+/**
+以下是错误示范，正确应该把if那块改为正经的abs()绝对值
+*/
 #include <stdio.h>
 int countGoodTriplets(int* arr, int arrSize, int a, int b, int c) {
     int cnt=0;
